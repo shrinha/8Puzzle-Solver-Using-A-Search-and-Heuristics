@@ -192,4 +192,4 @@ def get_plots(output):
     return anim
 
 
-        # sns.heatmap(paths[i], mask = paths[i] > 0, cmap='Blues', annot=False, yticklabels=False, xticklabels=False, ax=ax)
+        # sns.heatmap(paths[i], mask = paths[i] > 0, cmap='Blues', annot=False, yticklabels=False, xticklabels=False, ax=ax
